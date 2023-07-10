@@ -35,6 +35,14 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
+import MySQL1 from '../assets/MySQL1.jpeg';
+import sql from '../assets/sql.jpeg';
+import docker from '../assets/docker.png';
+import tensoflow from '../assets/tensoflow.png';
+import dock from '../assets/dock.svg';
+import canva from '../assets/canva.png';
+
+
 const images = {
   email,
   mobile,
@@ -69,6 +77,12 @@ const images = {
   nb,
   skype,
   spotify,
+  docker,
+  sql,
+  MySQL1,
+  tensoflow,
+  dock,
+  canva,
 };
 
 export default images;
