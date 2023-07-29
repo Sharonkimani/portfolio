@@ -25,7 +25,7 @@ const HeroSection = () => {
               Data Scientist And Analyst{" "}
             </span>
             based in Nairobi, Kenya.I Know That Good Data
-            Means Good Business That Makes Life Easier And More Meaningful.
+            Means Good Business.
             
           </p>
 
